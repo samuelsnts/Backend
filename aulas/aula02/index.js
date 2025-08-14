@@ -1,1 +1,1 @@
-console.log('Api está on!adad');
+console.log('Api está on!');
